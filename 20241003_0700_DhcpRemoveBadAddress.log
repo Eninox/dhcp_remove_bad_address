@@ -1,0 +1,11 @@
+Suppression des BAD_ADDRESS des étendues DHCP : 10/03/2024 07:00:04 
+
+BAD_ADDRESS	XX.XXX.XX.XXX		10/08/2024 08:58:56	1/512		Ping TimedOut -> suppression IP
+BAD_ADDRESS	XX.XXX.XX.XXX		10/08/2024 08:29:19	2/512		Ping TimedOut -> suppression IP
+BAD_ADDRESS	XX.XXX.XX.XXX		10/09/2024 10:05:46	3/512		Ping TimedOut -> suppression IP
+BAD_ADDRESS	XX.XXX.XX.XXX		10/09/2024 08:35:05	4/512		Ping TimedOut -> suppression IP
+BAD_ADDRESS	XX.XXX.XX.XXX		10/09/2024 09:04:37	5/512		Ping TimedOut -> suppression IP
+BAD_ADDRESS	XX.XXX.XX.XXX		10/10/2024 10:45:34	6/512		Ping TimedOut -> suppression IP
+...		...			...			...		...
+
+ Fin du traitement en 42.59 minutes
